@@ -1,4 +1,6 @@
-def 
+def greeting(name)
+  puts  "Hello! Welcome #{name}"
+end
 
 
 
